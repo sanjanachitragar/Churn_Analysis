@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis 
 ## 📖 Overview
-Customer churn analysis is an essential aspect of customer relationship management. This project aims to build a robust pipeline that addresses data extraction, model development, and system design using the Telco Customer Churn dataset from Kaggle.
+Customer churn analysis is an essential aspect of customer relationship management. This project aims to build a robust pipeline that addresses data extraction and model development using the Telco Customer Churn dataset from Kaggle.
 
 ## 🔍 Problem Statement
 The main goal of this analysis is to understand the factors influencing customer churn in the telecom sector. By identifying these factors, companies can take proactive measures to retain customers and improve service quality.
